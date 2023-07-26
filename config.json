@@ -1,0 +1,16 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["768414377593798657"],
+        "ACTIVITY_TEXT": ["Rest Welcomer 1", "Rest Welcomer 2", "Rest Welcomer 3"],
+        "GUILD_ID": "1132486420494286979",
+        "VOICE_CHANNEL": ["1132604589800169493",
+        "1132604591075238000",
+        "1132604592820060201" ],
+        "MIN_STAFF_ROLE": "1132604505993789522"
+    },
+    "FILES": {
+        "WELCOME": "default_files/hosgeldin.mp3",
+        "STAFF": "default_files/yetkili.mp3"
+    },
+    "TOKEN": ["MTEzMzUyODkwMjIxMjUzNDM3Mg.GRJywr.CtNFPqqG3jRrUZR7RDCIPfhiQtUM_fm7YRhE9Y", "MTEzMzUyOTUzNjg1MjY3NjcwMQ.GQUq4g.DZNpQZYMThJaSRsXlzhStzBRpC_Qi-yZ0VBqzA", "MTEzMzUyOTgyNzIwNzU1NzIwMg.GQ_MAH.uCfBZei4wwaJwa1dHbC5XPUtjKDVRDPXHP834o"]
+}
